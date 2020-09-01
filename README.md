@@ -1,2 +1,2 @@
-# React_express-starter
+# React express starter
 React-Express starter pack
